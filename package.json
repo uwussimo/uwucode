@@ -1,0 +1,46 @@
+{
+  "name": "vscode-pack",
+  "displayName": "VSCode Pack - uwussimo (1.0.0)",
+  "version": "1.0.0",
+  "publisher": "uwussimo",
+  "description": "A pack of extensions for VSCode that will make your life easier and boost your productivity.",
+  "categories": [
+    "Extension Packs",
+    "Programming Languages"
+  ],
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "extensionPack": [
+    "bobsparadox.seti-black",
+    "Equinusocio.moxer-icons",
+    "miguelsolorio.fluent-icons",
+    "usernamehw.errorlens",
+    "BriteSnow.vscode-toggle-quotes",
+    "oderwat.indent-rainbow",
+    "christian-kohler.path-intellisense",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "tamasfe.even-better-toml",
+    "ClemensPeters.format-json",
+    "jock.svg",
+    "bierner.markdown-preview-github-styles",
+    "bierner.markdown-checkbox"
+  ],
+  "license": "LICENSE",
+  "markdown": "github",
+  "bugs": {
+    "url": "https://github.com/uwussimo/vscode-pack/issues",
+    "email": "1YiB@proton.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uwussimo/vscode-pack/"
+  },
+  "homepage": "https://github.com/uwussimo/vscode-pack/"
+}
