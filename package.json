@@ -1,9 +1,9 @@
 {
   "name": "uwucode",
-  "displayName": "UwU Code - VSCode Pack by Uwussimo Robinson(1.0.0)",
-  "version": "1.0.0",
+  "displayName": "uwucode - VSCode productivity toolkit by @uwussimo",
+  "version": "1.0.1",
   "publisher": "uwussimo",
-  "description": "A pack of extensions for VSCode that will make your life easier and boost your productivity.",
+  "description": "A pack of extensions for VS-Code that will make your life easier and boost your productivity.",
   "categories": [
     "Extension Packs",
     "Programming Languages"
@@ -17,9 +17,9 @@
     "vscode": "^1.74.0"
   },
   "extensionPack": [
+    "humao.rest-client",
     "bobsparadox.seti-black",
-    "Equinusocio.moxer-icons",
-    "miguelsolorio.fluent-icons",
+    "PKief.material-icon-theme",
     "usernamehw.errorlens",
     "BriteSnow.vscode-toggle-quotes",
     "oderwat.indent-rainbow",
@@ -29,18 +29,27 @@
     "tamasfe.even-better-toml",
     "ClemensPeters.format-json",
     "jock.svg",
-    "bierner.markdown-preview-github-styles",
-    "bierner.markdown-checkbox"
+    "shd101wyy.markdown-preview-enhanced",
+    "esbenp.prettier-vscode",
+    "ritwickdey.LiveServer",
+    "rodrigovallades.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "aaron-bond.better-comments",
+    "cschlosser.doxdocgen",
+    "kube.theme-kay",
+    "formulahendry.auto-rename-tag",
+    "codezombiech.gitignore",
+    "bradlc.vscode-tailwindcss"
   ],
   "license": "LICENSE",
   "markdown": "github",
   "bugs": {
-    "url": "https://github.com/uwussimo/vscode-pack/issues",
-    "email": "1YiB@proton.me"
+    "url": "https://github.com/uwussimo/uwucode/issues",
+    "email": "papa@uwussi.moe"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uwussimo/vscode-pack/"
+    "url": "https://github.com/uwussimo/uwucode/"
   },
-  "homepage": "https://github.com/uwussimo/vscode-pack/"
+  "homepage": "https://github.com/uwussimo/uwucode/"
 }
